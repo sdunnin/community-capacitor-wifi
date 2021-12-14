@@ -6,5 +6,4 @@ Build
 .idea
 .gradle
 local.properties
-dist/
 electron/dist/
